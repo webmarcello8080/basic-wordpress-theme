@@ -20,7 +20,7 @@ This theme is designed as a **reusable boilerplate** for fast WordPress developm
 - 📦 Organized source folder (`src/`)
 - 🧱 Clean WordPress theme foundation
 - 🔁 Watch mode for development
-- 📁 Separate build output (`dist/` or `public/`)
+- 📁 Separate build output (`dist/`)
 
 ---
 
