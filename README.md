@@ -54,11 +54,11 @@ basictheme/
 
 ### 1. Install dependencies
 
-`bash`
-npm install
+bash
+`npm install`
 
 ### 2. Development mode
-npm run dev
+`npm run dev`
 
 Runs Vite dev server for:
 
@@ -67,6 +67,6 @@ JS bundling
 Hot reload (depending on setup)
 
 ### 3. Production build
-npm run build
+`npm run build`
 
 Generates optimized assets in: dist/
