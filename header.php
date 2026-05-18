@@ -11,7 +11,7 @@
 <?php wp_body_open(); ?>
 
 <header class="bg-slate-900 text-white py-4">
-    <div class="container mx-auto px-4 flex justify-between items-center">
+    <div class="container flex justify-between items-center">
 
         <a href="<?php echo esc_url(home_url('/')); ?>" class="text-2xl font-bold">
             <?php bloginfo('name'); ?>
